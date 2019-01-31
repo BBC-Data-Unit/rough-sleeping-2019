@@ -37,3 +37,7 @@ Readers could also watch [an explainer video about the background to the figures
 * Interactive choropleth map: Rough sleepers in England, per 10,000 households, by local authority
 * Grouped bar chart: Number of people bedding down outside per 10,000 households, by region: 2017 vs 2018
 * Line chart: Number of rough sleepers, 2010-2018, London vs rest of England
+
+## Related repos
+
+* The unit has reported a number of stories based on data around rough sleeping and homelessness. [All repos by the data units tagged 'homelessness' can be found here](https://github.com/search?q=topic%3Ahomelessness+org%3ABBC-Data-Unit&type=Repositories)
